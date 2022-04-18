@@ -78,3 +78,18 @@ body{
     border-bottom: 2px solid #141414;
     margin-top: 20px;
 }
+
+
+#hero-readius{
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+#home-hero {
+    height: 600px;
+    width: 100%;
+    background: url(/assets/images/homepagehero1.png);
+}
