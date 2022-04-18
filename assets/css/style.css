@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Source+Code+Pro&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    
 
+}
 
 body{
     font-weight: 300;
@@ -19,14 +25,17 @@ body{
 
 .social-media i {
 
-    font-size: 180%;
-    margin: 2%;
-    padding: 6%;
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
     color: #141414;
   }
+
   footer {
       
   height: 150px;
+  width: 100%;
+  
   }
     
 
@@ -37,3 +46,29 @@ body{
      font-style: italic;
  }
  
+
+ #navigation {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#navigation li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+#navigation , #header-h1 {
+    line-height: 75px;
+}
+
+#navigation a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
