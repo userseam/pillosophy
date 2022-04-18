@@ -29,3 +29,11 @@ body{
   height: 150px;
   }
     
+
+  #header-h1 {
+    float: left;
+     font-size: 270%;
+     margin-left: 40px;
+     font-style: italic;
+ }
+ 
