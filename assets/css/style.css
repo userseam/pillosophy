@@ -80,7 +80,28 @@ body{
 }
 
 
-#hero-readius{
+
+
+#home-hero {
+    height: 600px;
+    width: 100%;
+    background: url(/assets/images/homepagehero1.png) no-repeat center center;
+    animation-name: background-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#bubbel1 >h2 {
+    color: rgb(0, 0, 0);
+    margin: 15px;
+    text-transform: uppercase;
+}
+
+#bubbel1 > p {
+    font-style: normal;
+}
+
+#hero-radius{
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -88,27 +109,32 @@ body{
     
 }
 
-#home-hero {
-    height: 600px;
-    width: 100%;
-    background: url(/assets/images/homepagehero1.png);
+@keyframes background-zoom {
+    from{
+        transform: scale(1);
+
+    }
+    to{
+      transform: scale(1.1);
+    }
 }
 
-#Bubbel1
+
+#bubbel1
 
 {
     font-size: 130%;
     font-family: Kanit, sans-serif;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: 4px;
 
-    width: 400px;
-    height: 300px;
+    width: 600px;
+    height: 400px;
 
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(236, 228, 228, 0.801);
+    background-color: rgba(236, 228, 228, 0.884);
     bottom: 30px;
     right: 150px;
 
