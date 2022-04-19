@@ -81,11 +81,11 @@ body{
 
 
 #hero-readius{
-    height: 400px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
-
+    
 }
 
 #home-hero {
@@ -93,3 +93,26 @@ body{
     width: 100%;
     background: url(/assets/images/homepagehero1.png);
 }
+
+#Bubbel1
+
+{
+    font-size: 130%;
+    font-family: Kanit, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 400px;
+    height: 300px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(236, 228, 228, 0.801);
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+
+}
+
