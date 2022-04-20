@@ -91,16 +91,7 @@ body{
     animation-fill-mode: forwards;
 }
 
-#bubbel1 >h2 {
-    color: rgb(0, 0, 0);
-    margin: 15px;
-    text-transform: uppercase;
-}
 
-#bubbel1 > p {
-    font-style: normal;
-    margin-bottom: 80px;
-}
 
 #hero-radius{
     height: 600px;
@@ -120,8 +111,19 @@ body{
     }
 }
 
+.bubbel >h2 {
+    color: rgb(0, 0, 0);
+    margin: 15px;
+    text-transform: uppercase;
+}
 
-#bubbel1 > a{
+.bubbel > p {
+    font-style: normal;
+    margin-bottom: 80px;
+}
+
+
+.bubbel > a{
 
 color: #141414;    
 margin-left: 200px;
@@ -141,7 +143,7 @@ padding: 5px;
     letter-spacing: 4px;
 
     width: 600px;
-    height: 400px;
+    height: 350px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -149,8 +151,34 @@ padding: 5px;
     background-color: rgba(236, 228, 228, 0.884);
     bottom: 30px;
     right: 150px;
-
+    left: 70px;
     position: absolute;
-
+    
 }
+
+#bubbel2
+ 
+{
+    font-size: 130%;
+    font-family: Kanit, sans-serif;
+    text-transform: lowercase;
+    letter-spacing: 4px;
+ 
+    width: 600px;
+    height: 400px;
+ 
+    padding-top: 40px;
+    padding-left: 10px;
+ 
+    background-color: rgba(236, 228, 228, 0.884);
+    bottom: 30px;
+    right: 150px;
+ 
+    position: absolute;
+  
+}
+
+
+
+
 
