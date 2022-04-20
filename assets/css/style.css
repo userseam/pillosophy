@@ -85,7 +85,7 @@ body{
 #home-hero {
     height: 600px;
     width: 100%;
-    background: url(/assets/images/homepagehero1.png) no-repeat center center;
+    background: url(/assets/images/homepagehero1.png) repeat center center;
     animation-name: background-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -115,11 +115,12 @@ body{
     color: rgb(0, 0, 0);
     margin: 15px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .bubbel > p {
     font-style: normal;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 
 
@@ -130,6 +131,7 @@ margin-left: 200px;
 text-decoration: none;
 border: 2px solid #141414;
 padding: 5px;
+
 
 }
 
@@ -151,10 +153,16 @@ padding: 5px;
     background-color: rgba(236, 228, 228, 0.884);
     bottom: 30px;
     right: 150px;
-    left: 70px;
+    
     position: absolute;
     
 }
+
+#bubbel1 > p{
+    margin-bottom: 90px;
+}
+
+
 
 #bubbel2
  
@@ -165,7 +173,7 @@ padding: 5px;
     letter-spacing: 4px;
  
     width: 600px;
-    height: 400px;
+    height: 350px;
  
     padding-top: 40px;
     padding-left: 10px;
@@ -173,12 +181,28 @@ padding: 5px;
     background-color: rgba(236, 228, 228, 0.884);
     bottom: 30px;
     right: 150px;
- 
+    left: 70px;
     position: absolute;
   
 }
 
 
 
+#what-is {
+    background-color: #a6b6c9;
+    width: 100%;
+    height: 400px;
+}
 
+#what-is > h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 250%;
+    font-weight: 600;
+    
+}
 
+#what-is > p {
+    text-align: center;
+    letter-spacing: 2px;
+}
