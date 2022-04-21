@@ -192,17 +192,25 @@ padding: 5px;
     background-color: #a6b6c9;
     width: 100%;
     height: 400px;
+    overflow: auto;
 }
 
 #what-is > h1{
     text-align: center;
     font-style: italic;
     font-size: 250%;
-    font-weight: 6+0;
-    
+    font-weight: 600;
+    margin-top: 40px;
+   
 }
 
 #what-is > p {
     text-align: center;
     letter-spacing: 2px;
+    font-size: 120%;
+}
+
+#whatis-p1{
+    margin-top: 30px;
+    margin-bottom: 60px;
 }
