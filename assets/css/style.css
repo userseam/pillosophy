@@ -214,3 +214,30 @@ padding: 5px;
     margin-top: 30px;
     margin-bottom: 60px;
 }
+
+#med1 {
+    max-width: 26%;
+    height: 300px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 40px;
+    overflow: auto;
+}
+
+div > img {
+    height: 200px;
+    width: 200px;
+    float: left;
+    
+    overflow: hidden;
+}
+
+#med1 > h3 {
+    text-align: center;
+}
+
+#med1 > p {
+    
+    float: inline-end;
+}
