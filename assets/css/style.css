@@ -215,7 +215,7 @@ padding: 5px;
     margin-bottom: 60px;
 }
 
-#med1 {
+.med {
     max-width: 30%;
     height: 400px;
     display: inline-block;
@@ -225,7 +225,7 @@ padding: 5px;
     overflow: auto;
 }
 
-#med1 > img {
+.med > img {
     height: 200px;
     width: 200px;
     float: left;
@@ -236,13 +236,23 @@ padding: 5px;
     
 }
 
-#med1 > h3 {
+.med > h3 {
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-#med1 > p {
+.med > p {
     
-    float: inline-end;
+   text-align: left;
+   margin-bottom: 10px;
+    }
+
+#med1 {
+    margin-left: 30px;
 }
+
+#med4 {
+    margin-left: 30px;
+}
+
