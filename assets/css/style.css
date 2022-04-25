@@ -237,6 +237,10 @@ padding: 5px;
     
 }
 
+#med6 > img {
+    margin-bottom: 450px;
+}
+
 #med2  > img {
     margin-bottom: 380px;
 }
