@@ -241,6 +241,9 @@ padding: 5px;
     margin-bottom: 380px;
 }
 
+#med4 > img {
+    margin-bottom: 580px;
+}
 
 .med > h3 {
     text-align: center;
