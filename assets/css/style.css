@@ -418,6 +418,19 @@ height: 900px;
     #med4 {
         margin-left: 10px;
     }
+
+    #news-l-footer {
+      margin-top: 390px;
+  }
+
+ #form1 {
+     top: 450px;
+ }
+
+section > h2 {
+    margin-top: 100px;
+}
+
 }
 
 
