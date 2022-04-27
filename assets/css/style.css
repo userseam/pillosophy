@@ -405,3 +405,66 @@ height: 900px;
 }
 
 }
+
+
+@media screen and (max-width: 390px) {
+
+    #navigation {
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 30px;
+        margin-right: 0px;
+        
+        width: 360px;
+        height: 90px;
+
+    }
+
+    li > a {
+        margin-right: 20px;
+    }
+
+
+#home > a {
+    margin-right: 103px;
+}
+
+#news-letter > a {
+    margin-right: 35px;
+}
+
+}
+
+#bubbel2 {
+    width: 390px;
+    height: 600px;
+    left: 0px;
+} 
+
+#bubbel2 > a {
+    margin-left: 100px;
+}
+
+#bubbel1 {
+    left: 0px;
+    width: 390px;
+    height: 600px;
+    top: 800px;
+}
+
+#bubbel1 > a {
+    margin-left: 100px;
+}
+
+
+
+
+
+
+#home-hero {
+    height: 1500px;
+}
+
+#hero-radius {
+    height: 1500px;
+}
