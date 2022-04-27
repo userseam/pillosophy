@@ -456,15 +456,14 @@ height: 900px;
     margin-left: 100px;
 }
 
-
-
-
-
-
 #home-hero {
     height: 1500px;
 }
 
 #hero-radius {
     height: 1500px;
+}
+
+#what-is {
+    height: 600px;
 }
