@@ -182,7 +182,7 @@ padding: 5px;
     background-color: rgba(236, 228, 228, 0.884);
     bottom: 30px;
     right: 20px;
-    left: 70px;
+    left: 20px;
     position: absolute;
   
 }
@@ -209,6 +209,8 @@ padding: 5px;
     text-align: center;
     letter-spacing: 2px;
     font-size: 120%;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 #whatis-p1{
@@ -344,7 +346,8 @@ input {
 }
 
 #cpr {
-    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
 }
 
 
@@ -431,6 +434,22 @@ section > h2 {
     margin-top: 100px;
 }
 
+
+#what-is {
+    height: 450px;
+}
+
+
+.bubbel {
+    margin-left: 25px;
+}
+
+footer {
+
+    height: 100px;
+
+}
+
 }
 
 
@@ -466,33 +485,54 @@ section > h2 {
     width: 390px;
     height: 600px;
     left: 0px;
+    margin-left: 0px;
+    max-width: 390px;
+
 } 
 
 #bubbel2 > a {
     margin-left: 100px;
+    max-width: 390px;
 }
+
 
 #bubbel1 {
     left: 0px;
     width: 390px;
     height: 600px;
     top: 800px;
+    margin-left: 0px;
+    max-width: 390px;
+
 }
 
 #bubbel1 > a {
     margin-left: 100px;
+    max-width: 390px;
 }
+
 
 #home-hero {
     height: 1500px;
+    max-width: 390px;
 }
+
 
 #hero-radius {
     height: 1500px;
+    max-width: 390px;
 }
+
 
 #what-is {
     height: 600px;
+    max-width: 390px;
+}
+
+
+#what-is > p {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .med {
@@ -509,7 +549,14 @@ section > h2 {
 
 #med4 {
     margin-left: 0px;
+    max-width: 390px;
 }
 
+
+
+#home-hero {
+    width: 390px;
+    max-width: 390px;
+}
 
 }
