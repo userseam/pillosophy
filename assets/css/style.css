@@ -44,6 +44,7 @@ body{
      font-size: 270%;
      margin-left: 40px;
      font-style: italic;
+     margin-bottom: 27px;
  }
  
 
@@ -351,5 +352,52 @@ input {
     margin-left: 30px;
     margin-bottom: 20px;
     line-height: 25px;
+    margin-top: 20px;
 }
+
+
+}
+
+
+@media screen and (max-width: 1225px) {
+#bubbel1 {
+    
+right : 645px ; 
+
+
+top : 500px ;
+
+
+left : 65px ; 
+
+} 
+
+
+
+
+#bubbel2 {
+
+
+top : 80px ;
+
+right : 20px ;  
+
+left : 70px ; 
+
+bottom : 30px ;
+}
+
+  
+
+#hero-radius  {
+
+height :900px ; 
+}
+
+#home-hero {
+
+height: 900px;
+
+}
+
 }
