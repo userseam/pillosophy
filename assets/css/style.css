@@ -267,11 +267,11 @@ padding: 5px;
     }
 
     #med1 {
-        margin-left: 30px;
+        margin-left: 95px;
     }
     
     #med4 {
-        margin-left: 30px;
+        margin-left: 95px;
     }
 
 
@@ -450,6 +450,21 @@ footer {
 
 }
 
+.med {
+    margin-left: 175px;
+    margin-right: 175px;
+}
+
+#med1 {
+    margin-left: 175px;
+    margin-right: 175px;
+}
+
+#med4 {
+    margin-left: 175px;
+    margin-right: 175px;
+}
+
 }
 
 
@@ -537,19 +552,22 @@ footer {
 
 .med {
     margin-left: 0px;
+    margin-right: 0px;
 }
 
 .med > ul {
-    margin-left: 30px;
+    margin-left: 0px;
 }
 
 #med1 {
     margin-left: 0px;
+    margin-right: 0px;
 }
 
 #med4 {
     margin-left: 0px;
     max-width: 390px;
+    margin-right: 0px;
 }
 
 
