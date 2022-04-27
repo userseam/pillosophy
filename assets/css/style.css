@@ -407,7 +407,18 @@ height: 900px;
 }
 
 
+@media screen and (max-width: 820px) {
+    .med {
+        margin-left: 10px;
+    }
 
+    #med1 {
+        margin-left: 10px;
+    }
+    #med4 {
+        margin-left: 10px;
+    }
+}
 
 
 @media screen and (max-width: 390px) {
