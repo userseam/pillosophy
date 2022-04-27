@@ -86,7 +86,7 @@ body{
 #home-hero {
     height: 600px;
     width: 100%;
-    background: url(/assets/images/homepagehero1.png) repeat center center;
+    background: url(../images/homepagehero1.png) repeat center center;
     animation-name: background-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
