@@ -343,6 +343,10 @@ input {
     margin: 10px;
 }
 
+#cpr {
+    margin-left: 20px;
+}
+
 
 @media screen and (max-width: 1325px) {
 
