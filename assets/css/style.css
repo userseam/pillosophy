@@ -152,7 +152,7 @@ padding: 5px;
 
     background-color: rgba(236, 228, 228, 0.884);
     bottom: 30px;
-    right: 150px;
+    right: 20px;
     
     position: absolute;
     
@@ -180,7 +180,7 @@ padding: 5px;
  
     background-color: rgba(236, 228, 228, 0.884);
     bottom: 30px;
-    right: 150px;
+    right: 20px;
     left: 70px;
     position: absolute;
   
@@ -340,4 +340,16 @@ input[type=number] {
 
 input {
     margin: 10px;
+}
+
+
+@media screen and (max-width: 1325px) {
+
+   #navigation {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+}
 }
