@@ -296,8 +296,9 @@ h3 > a {
 
 section > h2 {
     text-align: center;
-    margin-top: 60px;
-    margin-bottom: 55px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+
 }
 
 form > input {
@@ -311,11 +312,31 @@ form > input {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    width: 300px;
-    height: 300px;
+    width: 800px;
+    height: 400px;
     padding: 20px;
+    margin-top: 20px;
 
 }
+
+label[for=fname] {
+    
+  right: 50px;
+    
+
+}
+
+label[for=lname] {
+    
+  
+
+}
+
+label[for=email] {
+    
+    
+}
+
 
 #news-l-footer {
     margin-top: 500px;
@@ -578,5 +599,17 @@ footer {
     width: 390px;
     max-width: 390px;
 }
+
+form {
+    background: #a6b6c9;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
+
 
 }
