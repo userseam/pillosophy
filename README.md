@@ -606,10 +606,10 @@ ________________________
 
 ### Media
 
--   All Images were created by the developer.
+-   All Images were taken from external sources and have been granted premession to be used in this website.
 
 ### Acknowledgements
 
 -   My Mentor for continuous helpful feedback.
 
--   Tutor support at Code Institute for their support.
+-   This has been a huge and most likely a life changeing project for me , this is the first time in atleast 7-10 years that i have effortlessly studyed and sensearly enyoed what ive done and the quote "time flys when you have fun" would be a perfect descroption of the learning journey and I am cirten that ive found my true passion .  Thank you for takeing the time of your day to read throw this project 
