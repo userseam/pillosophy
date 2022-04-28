@@ -296,7 +296,7 @@ h3 > a {
 
 section > h2 {
     text-align: center;
-    margin-top: 70px;
+    margin-top: 60px;
     margin-bottom: 55px;
 }
 
@@ -305,6 +305,7 @@ form > input {
 }
 
 #form1 {
+
     background: #a6b6c9;
     position: absolute;
     left: 50%;
@@ -313,6 +314,7 @@ form > input {
     width: 300px;
     height: 300px;
     padding: 20px;
+
 }
 
 #news-l-footer {
