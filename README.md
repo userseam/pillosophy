@@ -358,18 +358,18 @@ Colors : Background color : **HEX #A6B6C9** Textcolor : **HEX  #141414**
         -   The hero background image matches the overall design of the website and contranst it well and dose not affect the readebility of the website. The chemichal structure images in the 'your cabinet' section of the website makes seans with its coresponding text and audio file.
 
 *   ### Wireframes
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00001(1).jpg">
-<img src=="workspace/pillosophy/assets/images/wireframe1desktop_00002(1).jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00003(1).jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00004(1).jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00005(1).jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00006.jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00007.jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00008.jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00009.jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00010.jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00011.jpg">
-<img src="workspace/pillosophy/assets/images/wireframe1desktop_00012.jpg">
+<img src="assets/images/wireframe1desktop_00001(1).jpg">
+<img src=="assets/images/wireframe1desktop_00002(1).jpg">
+<img src="assets/images/wireframe1desktop_00003(1).jpg">
+<img src="assets/images/wireframe1desktop_00004(1).jpg">
+<img src="assets/images/wireframe1desktop_00005(1).jpg">
+<img src="assets/images/wireframe1desktop_00006.jpg">
+<img src="assets/images/wireframe1desktop_00007.jpg">
+<img src="assets/images/wireframe1desktop_00008.jpg">
+<img src="assets/images/wireframe1desktop_00009.jpg">
+<img src="assets/images/wireframe1desktop_00010.jpg">
+<img src="assets/images/wireframe1desktop_00011.jpg">
+<img src="assets/images/wireframe1desktop_00012.jpg">
    
 
 
@@ -589,8 +589,8 @@ This sinppet of CSS was inspered from the love  running project cover text div ,
 ________________________
 
 
-<img src="/workspace/pillosophy/assets/images/Screenshot_2.jpg">
-<img src="/workspace/pillosophy/assets/images/Screenshot_3.jpg">
+<img src="assets/images/Screenshot_2.jpg">
+<img src="assets/images/Screenshot_3.jpg">
 
 
 
